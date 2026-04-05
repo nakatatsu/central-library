@@ -1,0 +1,36 @@
+# Go toolchain
+# .golang.org covers proxy.golang.org, sum.golang.org etc.
+# .go.dev covers vuln.go.dev, pkg.go.dev etc.
+.go.dev
+.golang.org
+.storage.googleapis.com
+
+# Node / npm
+.nodejs.org
+.registry.npmjs.org
+
+# Claude Code
+.anthropic.com
+.claude.com                                                                                                                                                                    
+.claude.ai  
+
+.sentry.io
+.statsig.com
+
+
+# OpenAI (Codex CLI)
+.openai.com
+.chatgpt.com
+
+# VS Code extensions
+.marketplace.visualstudio.com
+.vscode.blob.core.windows.net
+.update.code.visualstudio.com
+
+# GitHub
+.github.com
+.githubusercontent.com
+.github.io
+
+# AWS
+.amazonaws.com
