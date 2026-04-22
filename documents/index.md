@@ -2,10 +2,11 @@
 
 ## 基本方針
 
+- [開発憲章](policies/constitution.md)
+    - [DevOpsへの適用](policies/constitution-devops.md)
 - [AIガバナンス](policies/ai-governance.md)
 - [AI駆動開発](policies/ai-driven-development.md)
 - [開発用ドキュメント管理](policies/development-document-management.md)
-- [開発憲章](policies/constitution.md)
 
 ## 開発環境
 
